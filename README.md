@@ -41,31 +41,73 @@
 
 ## 💜 fora do código
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-**🕹️ Jogos**
+👩‍❤️‍👩
 <br>
-<sub>sempre em busca do próximo mundo pra explorar</sub>
+**família**
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-**🎧 Música**
+🐱
 <br>
-<sub>trilha sonora obrigatória pra qualquer commit</sub>
+**gatos**
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-**💾 Old Tech**
+🏖️
 <br>
-<sub>imagina compilar código pra disquete, não pra nuvem</sub>
+**praia**
+
+</td>
+<td align="center" width="25%">
+
+✈️
+<br>
+**viajar**
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+🕹️
+<br>
+**jogos**
+
+</td>
+<td align="center" width="25%">
+
+🎧
+<br>
+**música**
+
+</td>
+<td align="center" width="25%">
+
+🎬
+<br>
+**cinema & tv shows**
+
+</td>
+<td align="center" width="25%">
+
+💾
+<br>
+**old tech**
 
 </td>
 </tr>
 </table>
+
+</div>
+
 
 <br>
 
