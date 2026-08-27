@@ -12,17 +12,23 @@
 
 ## 🔮 sobre mim
 
+<a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
+    <img align="right" alt="Spotify in Github Profile" src="https://spotify-github-profile.kittinanx.com/api/view?uid=222guznru7qqomjhjuredqggq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true" />
+</a>
+
 - 🖥️ Trabalhando atualmente com a stack **Java**
 - 📖 Aprendendo **de tudo**
 - 👥 Aberta a colaborar em **projetos de jogos**
 - 🎧 Programando quase sempre com **música** tocando
 - 💾 Tenho um fascínio por **old techs**
+- 👀️ GitHub está meio parado, porque o **GitLab** roubou a cena
 - 📭 Como me encontrar:
 
 <div align="center">
 
-[![E-mail](https://img.shields.io/badge/E--mail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edivania.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/edivania-pontes/)
+&nbsp;&nbsp;
+[![E-mail](https://img.shields.io/badge/E--mail-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edivania.dev@gmail.com)
 
 </div>
 
