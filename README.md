@@ -146,3 +146,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=edivaniap&color=8B00FF&style=flat)
 
 </div>
+
+<!-- Easter eggs -->
+
+<img alt="Mario macetando Yoshi gif" align="right" height="90" src="https://media.tenor.com/rwm5tC1uxiMAAAAj/mario-and-yoshi.gif" />
+
+<!--
+<img alt="Super Mario and Yoshi gif" height="60" src="https://media.tenor.com/aew7tO8pn3AAAAAj/super-mario-world-yoshi.gif" />
+<img alt="Yoshi gif" height="60" src="https://media.tenor.com/RBHy1tNzEJ4AAAAj/yoshitv-yoshi.gif" />
+<img alt="Pet Sage gif" height="60" src="https://media.tenor.com/TR5iUEFpk6cAAAAj/petsage-petpet.gif" />
+-->
