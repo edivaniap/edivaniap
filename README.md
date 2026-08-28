@@ -13,7 +13,7 @@
 ## 🔮 sobre mim
 
 <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
-    <img align="right" alt="Spotify in Github Profile" src="https://spotify-github-profile.kittinanx.com/api/view?uid=222guznru7qqomjhjuredqggq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true" />
+    <img align="right" alt="Spotify in Github Profile" src="https://spotify-github-profile.kittinanx.com/api/view?uid=222guznru7qqomjhjuredqggq&cover_image=true&theme=novatorem&show_offline=true&background_color=00FFFF&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" />
 </a>
 
 - 🖥️ Trabalhando atualmente com a stack **Java**
